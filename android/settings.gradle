@@ -1,0 +1,3 @@
+rootProject.name = 'ChatZard'
+
+include ':app'
